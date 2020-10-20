@@ -1,4 +1,4 @@
-# Stone Soup
+# Stone Soup (Fuzzy Felt Framework)
 [![CircleCI branch](https://img.shields.io/circleci/project/github/dstl/Stone-Soup/master.svg?label=tests&style=flat)](https://circleci.com/gh/dstl/Stone-Soup)
 [![Codecov](https://img.shields.io/codecov/c/github/dstl/Stone-Soup.svg)](https://codecov.io/gh/dstl/Stone-Soup)
 [![Read the Docs](https://img.shields.io/readthedocs/stonesoup.svg?style=flat)](https://stonesoup.readthedocs.io/en/latest/?badge=latest)
